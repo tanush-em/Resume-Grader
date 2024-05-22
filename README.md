@@ -1,2 +1,3 @@
 # Resume-Grader
 This application uses Gemini API to analyze resumes for Applicant Tracking Systems and job description match. The framework used is Streamlit.
+Prompt Enginnering is used to fine tune the app to get the best possible results...
